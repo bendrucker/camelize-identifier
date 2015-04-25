@@ -16,7 +16,7 @@ module.exports = function (name) {
     throw new Error('Name must begin with a letter, $, or _')
   }
   if (/[^\w$]/.test(identifier)) {
-    throw new Error(format('"%s" contains illegal characters and cannot be converted to a valid identifier', name))
+    throw new Error(format('"%s" contains an illegal character and cannot be converted to a valid identifier', name))
   }
   return identifier
 }
