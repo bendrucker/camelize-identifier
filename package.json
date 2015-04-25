@@ -1,0 +1,24 @@
+{
+  "name": "to-identifier",
+  "version": "1.0.0",
+  "description": "Convert a string into a valid JS identifier",
+  "main": "./src",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bendrucker/to-identifier.git"
+  },
+  "keywords": [
+    "identifier",
+    "variable",
+    "name"
+  ],
+  "author": "Ben Drucker <bvdrucker@gmail.com> (http://www.bendrucker.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bendrucker/to-identifier/issues"
+  },
+  "homepage": "https://github.com/bendrucker/to-identifier#readme"
+}
