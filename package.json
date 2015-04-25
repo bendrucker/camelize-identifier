@@ -4,7 +4,7 @@
   "description": "Convert a string into a valid JS identifier",
   "main": "./src",
   "scripts": {
-    "test": "tape test/*.js"
+    "test": "standard && tape test/*.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/bendrucker/to-identifier/issues"
   },
-  "homepage": "https://github.com/bendrucker/to-identifier#readme"
+  "homepage": "https://github.com/bendrucker/to-identifier#readme",
+  "dependencies": {
+    "camelcase": "~1.0.2",
+    "reserved": "~0.1.2"
+  },
+  "devDependencies": {
+    "standard": "~3.7.1",
+    "tape": "~4.0.0"
+  }
 }
