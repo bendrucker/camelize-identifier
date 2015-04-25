@@ -1,5 +1,5 @@
 {
-  "name": "to-identifier",
+  "name": "camelize-identifier",
   "version": "1.0.0",
   "description": "Convert a string into a valid JS identifier",
   "main": "./src",
