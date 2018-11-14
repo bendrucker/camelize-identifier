@@ -1,4 +1,4 @@
-# camelize-identifier [![Build Status](https://travis-ci.org/bendrucker/camelize-identifier.svg?branch=master)](https://travis-ci.org/bendrucker/camelize-identifier)
+# camelize-identifier [![Build Status](https://travis-ci.org/bendrucker/camelize-identifier.svg?branch=master)](https://travis-ci.org/bendrucker/camelize-identifier) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/camelize-identifier.svg)](https://greenkeeper.io/)
 Convert a string into a valid JS identifier
 
 ## Installing
