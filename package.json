@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/bendrucker/to-identifier#readme",
   "dependencies": {
-    "camelcase": "~5.1.0",
+    "camelcase": "~5.2.0",
     "reserved": "~0.1.2"
   },
   "devDependencies": {
